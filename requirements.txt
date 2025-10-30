@@ -1,0 +1,54 @@
+# ========================
+# LangChain Core Libraries
+# ========================
+langchain
+langchain-core
+langchain-openai
+langchain-anthropic
+langchain-google-genai
+langchain-huggingface
+
+# ========================
+# Model SDKs & APIs
+# ========================
+openai
+google-generativeai
+huggingface-hub
+transformers
+Flask
+gunicorn
+python-dotenv
+# ========================
+# Agentic Framework
+# ========================
+langgraph
+
+# ========================
+# Environment & Utilities
+# ========================
+python-dotenv
+typing_extensions
+requests
+PyPDF2
+numpy
+scikit-learn
+
+# ========================
+# Web UI
+# ========================
+streamlit
+
+# ========================
+# Additional Required Tools
+# ========================
+xmltodict    # Recommended for XML handling (since you’re using xml.etree from stdlib but often need parsing)
+
+# ========================
+# Optional (used in your code)
+# ========================
+logging      # built-in, no need to list
+pathlib      # built-in
+#subprocess   # built-in
+#shutil       # built-in
+datetime     # built-in
+#io           # built-in
